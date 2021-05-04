@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ScriptsBD_Gerenciamento">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-J1DO8OF:DESKTOP-J1DO8OF\mcdes">
+          <Created>2020-07-16T17:04:44.3088563-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-J1DO8OF</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="QueryClientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryClientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryCriaTabela.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryCriaTabela.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryEndereco.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryEndereco.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryEndFornecedor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryEndFornecedor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryFornecedores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryFornecedores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryLogin.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryLogin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryTelefone.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryTelefone.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryTelefoneFornecedor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-J1DO8OF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-J1DO8OF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryTelefoneFornecedor.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
