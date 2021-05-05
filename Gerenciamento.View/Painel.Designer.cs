@@ -114,7 +114,7 @@
             this.btnSair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSair.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSair.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnSair.Location = new System.Drawing.Point(48, 776);
+            this.btnSair.Location = new System.Drawing.Point(14, 593);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(78, 26);
             this.btnSair.TabIndex = 4;
